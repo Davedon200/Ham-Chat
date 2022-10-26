@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827882535403",
+    "project_id": "ham-chat-6ff55",
+    "storage_bucket": "ham-chat-6ff55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827882535403:android:658c3ae06271834a0601ae",
+        "android_client_info": {
+          "package_name": "com.dave.ham_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827882535403-kk649uqnu84uo46o79k27g48dtvrttlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGKNUm6Jsh-izfSiPv1l4ZVXlua6NNNvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827882535403-kk649uqnu84uo46o79k27g48dtvrttlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
